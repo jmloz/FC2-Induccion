@@ -10,6 +10,7 @@ public class progrecionGeo {
         System.out.print("Dame n: ");
         int n = teclado.nextInt();
         System.out.print("Secuencia = "+a);
+        //Codigo en accion.
         for (int i = 0; i < n; i++) {
             System.out.print(" + ("+a+"*"+r+")"+"^"+(i+1));
         }

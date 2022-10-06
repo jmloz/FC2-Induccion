@@ -1,19 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af3c00c0-7a87-4013-ba76-ffcc0895777b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Induccion.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/induccion/ImpMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/induccion/gaussMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/induccion/num3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/induccion/num5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/induccion/progrecionGeo.java" afterDir="false" />
+    <list default="true" id="af3c00c0-7a87-4013-ba76-ffcc0895777b" name="Changes" comment="Version sin validaciones">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/induccion/progrecionGeo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/induccion/progrecionGeo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,10 +35,14 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+    "last_opened_file_path": "G:/Otros ordenadores/My Laptop/IdeaProjects/Induccion",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.num5">
+  <component name="RunManager" selected="Application.progrecionGeo">
     <configuration name="ImpMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="induccion.ImpMain" />
       <module name="Induccion" />
@@ -115,8 +110,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.num5" />
         <item itemvalue="Application.progrecionGeo" />
+        <item itemvalue="Application.num5" />
         <item itemvalue="Application.ImpMain" />
         <item itemvalue="Application.num3" />
         <item itemvalue="Application.gaussMain" />
@@ -132,6 +127,14 @@
       <option name="presentableId" value="Default" />
       <updated>1664896916724</updated>
     </task>
+    <task id="LOCAL-00001" summary="Version sin validaciones">
+      <created>1665032256295</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665032256295</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -144,6 +147,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Version sin validaciones" />
+    <option name="LAST_COMMIT_MESSAGE" value="Version sin validaciones" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
